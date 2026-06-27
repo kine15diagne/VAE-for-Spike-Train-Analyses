@@ -69,6 +69,13 @@ https://huggingface.co/spaces/KineDS/Benchmark_vae
 * Mettre à disposition une démonstration accessible en ligne.
 
 ---
+## 🌱 Contributions principales
+
+Au-delà de la comparaison de plusieurs architectures de Variational Autoencoders, ce projet met en évidence une approche d'optimisation du coût computationnel.
+
+Les expérimentations montrent qu'il est possible de réduire le nombre d'époques d'entraînement afin de diminuer le temps de calcul et la consommation de ressources, tout en conservant des performances comparables pour la détection d'anomalies.
+
+Cette approche contribue au développement d'une intelligence artificielle plus sobre, en améliorant l'efficacité de l'entraînement sans compromettre la qualité des résultats.
 
 ## ▶️ Démonstration
 
