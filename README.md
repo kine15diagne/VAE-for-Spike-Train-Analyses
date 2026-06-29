@@ -1,6 +1,7 @@
+
 # 🧠 NEURO-AI
-### Benchmark of Variational Autoencoders for Spike Train Analysis
-Classement de profils d’activités de neurones biologiques par apprentissage profond de type auto-encodeur (VAE)
+
+> **Benchmark of Variational Autoencoders for Spike Train Analysis** > *Classement de profils d'activités de neurones biologiques par apprentissage profond de type auto-encodeur (VAE)*
 
 <p align="center">
   <a href="https://huggingface.co/spaces/KineDS/Benchmark_vae">
@@ -14,17 +15,19 @@ Classement de profils d’activités de neurones biologiques par apprentissage p
 
 ---
 
-## 📖 Description
+---
 
-**NEURO-AI** est une application interactive développée dans le cadre d'un stage de Master en Data Science au **CNRS – Institut des Neurosciences Cellulaires et Intégratives (INCI), Université de Strasbourg**.
+## 🎯 Contexte & Problématique
+Les chercheurs cherchent à mieux comprendre le fonctionnement des réseaux neuronaux à partir de l'analyse des *spike trains*. Cependant, la comparaison de plusieurs architectures de *Variational Autoencoders* nécessitait jusqu'alors l'exécution de scripts Python et des manipulations techniques complexes, rendant l'analyse longue et peu accessible aux utilisateurs non spécialistes.
 
-Le projet a pour objectif de comparer plusieurs architectures de **Variational Autoencoders (VAE)** appliquées à la détection d'anomalies dans des signaux neuronaux (*spike trains*). Il permet d'évaluer les performances des modèles à travers des visualisations interactives, l'analyse de l'espace latent et la comparaison des résultats.
+## 📖 Description du Projet
+**NEURO-AI** est une application interactive développée dans le cadre d'un **projet de Recherche et Développement (R&D)** au **CNRS – Institut des Neurosciences Cellulaires et Intégratives (INCI)**, en collaboration avec l'**Université de Strasbourg**.
 
-Une démonstration est disponible sur Hugging Face afin de faciliter l'exploration des différents modèles.
+Afin de répondre à ce besoin, j'ai développé une application web interactive permettant de comparer plusieurs architectures VAE, de visualiser les espaces latents et de détecter automatiquement les neurones présentant des comportements atypiques, sans avoir à manipuler le code.
 
-👉 **Application en ligne :**
-https://huggingface.co/spaces/KineDS/Benchmark_vae
+Une démonstration est disponible en ligne afin de faciliter l'exploration des différents modèles et rendre ces analyses accessibles à l'ensemble des chercheurs.
 
+👉 **Application en ligne :** [https://huggingface.co/spaces/KineDS/Benchmark_vae](https://huggingface.co/spaces/KineDS/Benchmark_vae)
 ---
 
 ## 🚀 Fonctionnalités
@@ -37,6 +40,18 @@ https://huggingface.co/spaces/KineDS/Benchmark_vae
 * Déploiement sur Hugging Face Spaces
 
 ---
+
+## ⚙️ Comment utiliser l'application 
+
+1. Charger les données.
+
+2. Lancer l'analyse.
+ 
+3. Sélectionner un modèle VAE.
+   
+4. Visualiser les résultats.
+
+5. Comparer les performances des modèles.
 
 ## 🧠 Architectures comparées
 
@@ -84,12 +99,34 @@ Cette approche contribue au développement d'une intelligence artificielle plus 
 https://huggingface.co/spaces/KineDS/Benchmark_vae
 
 ---
+
+## 🚀 Déploiement
+L'application est déployée sur Hugging Face Spaces.
+
+Le code est versionné avec Git et GitHub.
+
+Le déploiement permet une utilisation directe depuis un navigateur web sans installation locale.
+
+---
+
+## 💻 Réutiliser le code
+Le projet peut être réutilisé pour :
+
+• comparer de nouvelles architectures VAE ;
+
+• intégrer d'autres jeux de données neuronales ;
+
+• servir de base au développement d'outils d'analyse interactifs.
+
+---
+
 ## 🙏 Remerciements
 Je tiens à exprimer ma profonde gratitude au CNRS – Institut des Neurosciences Cellulaires et Intégratives (INCI) ainsi qu'à l'Université de Strasbourg pour m'avoir accueillie dans le cadre de mon stage de Master en Data Science.
 J'adresse mes sincères remerciements à M. Hugues Le Petitjean, mon encadrant de stage, pour sa disponibilité, ses conseils, son accompagnement scientifique et la confiance qu'il m'a accordée tout au long de ce projet.
 Je remercie également l'ensemble des membres de l'équipe de recherche pour leur accueil, leur bienveillance et les échanges enrichissants qui ont contribué à cette expérience.
 
 
+---
 
 ## 📄 Licence
 
