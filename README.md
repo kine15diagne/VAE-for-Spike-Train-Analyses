@@ -1,7 +1,7 @@
 
 # 🧠 NEURO-AI
 
-> **Benchmark of Variational Autoencoders for Spike Train Analysis** > *Classement de profils d'activités de neurones biologiques par apprentissage profond de type auto-encodeur (VAE)*
+> **Benchmark of Variational Autoencoders for Spike Train Analysis**  *Classement de profils d'activités de neurones biologiques par apprentissage profond de type auto-encodeur (VAE)*
 
 <p align="center">
   <a href="https://huggingface.co/spaces/KineDS/Benchmark_vae">
