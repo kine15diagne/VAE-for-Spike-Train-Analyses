@@ -11,7 +11,7 @@
   </a>
   <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python" alt="Python">
   <img src="https://img.shields.io/badge/Deep%20Learning-VAE-red">
-  <img src="https://img.shields.io/badge/Framework-Gradio-orange">
+  <img src="https://img.shields.io/badge/Framework-Panel-orange">
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen">
 </p>
 
